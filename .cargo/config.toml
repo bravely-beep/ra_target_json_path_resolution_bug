@@ -1,0 +1,2 @@
+[build]
+target = "my_custom_target.json"
